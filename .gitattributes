@@ -1,0 +1,3 @@
+# Keep LF endings so the script runs on Linux and list checksums match across platforms
+*.sh  text eol=lf
+*.tsv text eol=lf
